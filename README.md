@@ -4,4 +4,6 @@
 A 2-players chess game developped using Java Core and Java Swing.
 
 ### Files
-- src: Source Code
+- src.rar: Source Code
+- PieceGraphics.rar: images of chess pieces
+- ChessGameExecutable.jar: Java executable 
