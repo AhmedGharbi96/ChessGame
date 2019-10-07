@@ -4,4 +4,4 @@
 A 2-players chess game developped using Java Core and Java Swing.
 
 ### Files
-*item src: Source Code
+- src: Source Code
